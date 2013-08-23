@@ -15,14 +15,16 @@
 @interface CalculatorViewController : UIViewController {
     IBOutlet UILabel *display;
     IBOutlet UILabel *operationsDisplay;
+    IBOutlet UIImageView *image;
     CalculatorBrain *brain;
     BOOL numberEntered;
+    
+    double pitch, variance, speed;
     
     FliteTTS *fliteEngine;
 }
 
 - (IBAction)digitPressed:(UIButton *)sender;
 - (IBAction)operationPressed:(UIButton *)sender;
-- (IBAction)buttonHover:(UIButton *)sender;
 
 @end

@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5EB29D2417C38FC900E74E90 /* Calcu.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EB29D2317C38FC900E74E90 /* Calcu.png */; };
+		5EB29D2E17C39D9500E74E90 /* 57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EB29D2D17C39D9500E74E90 /* 57x57.png */; };
+		5EB29D3017C39DED00E74E90 /* 114x114.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EB29D2F17C39DED00E74E90 /* 114x114.png */; };
+		5EB29D3217C39E6700E74E90 /* 72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EB29D3117C39E6700E74E90 /* 72x72.png */; };
+		5EB29D3417C39E9F00E74E90 /* 144x144.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EB29D3317C39E9F00E74E90 /* 144x144.png */; };
+		5EB29D3617C3A31300E74E90 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EB29D3517C3A31300E74E90 /* Default.png */; };
+		5EB29D3817C3A38500E74E90 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EB29D3717C3A38500E74E90 /* Default@2x.png */; };
 		5EBC0A5A17C3324600160B6D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EBC0A5917C3324600160B6D /* UIKit.framework */; };
 		5EBC0A5C17C3324600160B6D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EBC0A5B17C3324600160B6D /* Foundation.framework */; };
 		5EBC0A5E17C3324600160B6D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EBC0A5D17C3324600160B6D /* CoreGraphics.framework */; };
@@ -119,9 +126,25 @@
 		5EBC0B9017C332B000160B6D /* usenglish.c in Sources */ = {isa = PBXBuildFile; fileRef = 5EBC0B2F17C332B000160B6D /* usenglish.c */; };
 		5EBC0B9817C332C500160B6D /* FliteTTS.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EBC0B9317C332C500160B6D /* FliteTTS.m */; };
 		5EBC0B9D17C3337B00160B6D /* CalculatorBrain.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EBC0B9C17C3337B00160B6D /* CalculatorBrain.m */; };
+		5EC4254B17C3A6800074D3FC /* Default-Portrait@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EC4254A17C3A6800074D3FC /* Default-Portrait@2x~ipad.png */; };
+		5EC4254D17C3A68E0074D3FC /* Default-Landscape@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EC4254C17C3A68E0074D3FC /* Default-Landscape@2x~ipad.png */; };
+		5EC4254F17C3A74D0074D3FC /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EC4254E17C3A74D0074D3FC /* Default-Landscape~ipad.png */; };
+		5EC4255117C3A78D0074D3FC /* Default-Portrait~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EC4255017C3A78D0074D3FC /* Default-Portrait~ipad.png */; };
+		5EC4255317C3A8510074D3FC /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EC4255217C3A8510074D3FC /* Default-568h@2x.png */; };
+		5EC4256917C3B33F0074D3FC /* talk0001.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EC4256517C3B33D0074D3FC /* talk0001.png */; };
+		5EC4256A17C3B33F0074D3FC /* talk0002.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EC4256617C3B33E0074D3FC /* talk0002.png */; };
+		5EC4256B17C3B33F0074D3FC /* talk0003.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EC4256717C3B33E0074D3FC /* talk0003.png */; };
+		5EC4256C17C3B33F0074D3FC /* talk0004.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EC4256817C3B33F0074D3FC /* talk0004.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5EB29D2317C38FC900E74E90 /* Calcu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calcu.png; sourceTree = "<group>"; };
+		5EB29D2D17C39D9500E74E90 /* 57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 57x57.png; path = ../57x57.png; sourceTree = "<group>"; };
+		5EB29D2F17C39DED00E74E90 /* 114x114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 114x114.png; path = ../114x114.png; sourceTree = "<group>"; };
+		5EB29D3117C39E6700E74E90 /* 72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 72x72.png; path = ../72x72.png; sourceTree = "<group>"; };
+		5EB29D3317C39E9F00E74E90 /* 144x144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 144x144.png; path = ../144x144.png; sourceTree = "<group>"; };
+		5EB29D3517C3A31300E74E90 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../Default.png; sourceTree = "<group>"; };
+		5EB29D3717C3A38500E74E90 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "../Default@2x.png"; sourceTree = "<group>"; };
 		5EBC0A5617C3324600160B6D /* SpeakingCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpeakingCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EBC0A5917C3324600160B6D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5EBC0A5B17C3324600160B6D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -308,6 +331,16 @@
 		5EBC0B9317C332C500160B6D /* FliteTTS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FliteTTS.m; sourceTree = "<group>"; };
 		5EBC0B9B17C3337B00160B6D /* CalculatorBrain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalculatorBrain.h; sourceTree = "<group>"; };
 		5EBC0B9C17C3337B00160B6D /* CalculatorBrain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalculatorBrain.m; sourceTree = "<group>"; };
+		5EC4254A17C3A6800074D3FC /* Default-Portrait@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Portrait@2x~ipad.png"; path = "../Default-Portrait@2x~ipad.png"; sourceTree = "<group>"; };
+		5EC4254C17C3A68E0074D3FC /* Default-Landscape@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Landscape@2x~ipad.png"; path = "../Default-Landscape@2x~ipad.png"; sourceTree = "<group>"; };
+		5EC4254E17C3A74D0074D3FC /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Landscape~ipad.png"; path = "../Default-Landscape~ipad.png"; sourceTree = "<group>"; };
+		5EC4255017C3A78D0074D3FC /* Default-Portrait~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Portrait~ipad.png"; path = "../Default-Portrait~ipad.png"; sourceTree = "<group>"; };
+		5EC4255217C3A8510074D3FC /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../Default-568h@2x.png"; sourceTree = "<group>"; };
+		5EC4255417C3A8640074D3FC /* SpeakingCalculator.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SpeakingCalculator.entitlements; sourceTree = "<group>"; };
+		5EC4256517C3B33D0074D3FC /* talk0001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = talk0001.png; sourceTree = "<group>"; };
+		5EC4256617C3B33E0074D3FC /* talk0002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = talk0002.png; sourceTree = "<group>"; };
+		5EC4256717C3B33E0074D3FC /* talk0003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = talk0003.png; sourceTree = "<group>"; };
+		5EC4256817C3B33F0074D3FC /* talk0004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = talk0004.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -329,8 +362,6 @@
 		5EBC0A4D17C3324600160B6D = {
 			isa = PBXGroup;
 			children = (
-				5EBC0A8117C3328800160B6D /* AudioToolbox.framework */,
-				5EBC0A7F17C3328200160B6D /* AVFoundation.framework */,
 				5EBC0A5F17C3324600160B6D /* SpeakingCalculator */,
 				5EBC0A5817C3324600160B6D /* Frameworks */,
 				5EBC0A5717C3324600160B6D /* Products */,
@@ -348,6 +379,8 @@
 		5EBC0A5817C3324600160B6D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				5EBC0A8117C3328800160B6D /* AudioToolbox.framework */,
+				5EBC0A7F17C3328200160B6D /* AVFoundation.framework */,
 				5EBC0A5917C3324600160B6D /* UIKit.framework */,
 				5EBC0A5B17C3324600160B6D /* Foundation.framework */,
 				5EBC0A5D17C3324600160B6D /* CoreGraphics.framework */,
@@ -358,6 +391,12 @@
 		5EBC0A5F17C3324600160B6D /* SpeakingCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				5EC4256517C3B33D0074D3FC /* talk0001.png */,
+				5EC4256617C3B33E0074D3FC /* talk0002.png */,
+				5EC4256717C3B33E0074D3FC /* talk0003.png */,
+				5EC4256817C3B33F0074D3FC /* talk0004.png */,
+				5EC4255417C3A8640074D3FC /* SpeakingCalculator.entitlements */,
+				5EB29D2317C38FC900E74E90 /* Calcu.png */,
 				5EBC0B9B17C3337B00160B6D /* CalculatorBrain.h */,
 				5EBC0B9C17C3337B00160B6D /* CalculatorBrain.m */,
 				5EBC0B9117C332C500160B6D /* Classes */,
@@ -376,6 +415,17 @@
 		5EBC0A6017C3324600160B6D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5EC4255217C3A8510074D3FC /* Default-568h@2x.png */,
+				5EC4255017C3A78D0074D3FC /* Default-Portrait~ipad.png */,
+				5EC4254E17C3A74D0074D3FC /* Default-Landscape~ipad.png */,
+				5EC4254C17C3A68E0074D3FC /* Default-Landscape@2x~ipad.png */,
+				5EC4254A17C3A6800074D3FC /* Default-Portrait@2x~ipad.png */,
+				5EB29D3717C3A38500E74E90 /* Default@2x.png */,
+				5EB29D3517C3A31300E74E90 /* Default.png */,
+				5EB29D3317C39E9F00E74E90 /* 144x144.png */,
+				5EB29D3117C39E6700E74E90 /* 72x72.png */,
+				5EB29D2F17C39DED00E74E90 /* 114x114.png */,
+				5EB29D2D17C39D9500E74E90 /* 57x57.png */,
 				5EBC0A6117C3324600160B6D /* SpeakingCalculator-Info.plist */,
 				5EBC0A6217C3324600160B6D /* InfoPlist.strings */,
 				5EBC0A6517C3324600160B6D /* main.m */,
@@ -705,6 +755,22 @@
 				5EBC0A7617C3324700160B6D /* CalculatorViewController_iPhone.xib in Resources */,
 				5EBC0A7917C3324700160B6D /* CalculatorViewController_iPad.xib in Resources */,
 				5EBC0B8D17C332B000160B6D /* us_pos.tree in Resources */,
+				5EB29D2417C38FC900E74E90 /* Calcu.png in Resources */,
+				5EB29D2E17C39D9500E74E90 /* 57x57.png in Resources */,
+				5EB29D3017C39DED00E74E90 /* 114x114.png in Resources */,
+				5EB29D3217C39E6700E74E90 /* 72x72.png in Resources */,
+				5EB29D3417C39E9F00E74E90 /* 144x144.png in Resources */,
+				5EB29D3617C3A31300E74E90 /* Default.png in Resources */,
+				5EB29D3817C3A38500E74E90 /* Default@2x.png in Resources */,
+				5EC4254B17C3A6800074D3FC /* Default-Portrait@2x~ipad.png in Resources */,
+				5EC4254D17C3A68E0074D3FC /* Default-Landscape@2x~ipad.png in Resources */,
+				5EC4254F17C3A74D0074D3FC /* Default-Landscape~ipad.png in Resources */,
+				5EC4255117C3A78D0074D3FC /* Default-Portrait~ipad.png in Resources */,
+				5EC4255317C3A8510074D3FC /* Default-568h@2x.png in Resources */,
+				5EC4256917C3B33F0074D3FC /* talk0001.png in Resources */,
+				5EC4256A17C3B33F0074D3FC /* talk0002.png in Resources */,
+				5EC4256B17C3B33F0074D3FC /* talk0003.png in Resources */,
+				5EC4256C17C3B33F0074D3FC /* talk0004.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -860,8 +926,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Vincent Le Quang";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Vincent Le Quang";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -876,8 +942,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE = "34003A8E-CECA-4C74-ACAB-673B6C8EC429";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "34003A8E-CECA-4C74-ACAB-673B6C8EC429";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -895,8 +961,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Vincent Le Quang";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Vincent Le Quang";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -904,8 +970,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE = "34003A8E-CECA-4C74-ACAB-673B6C8EC429";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "34003A8E-CECA-4C74-ACAB-673B6C8EC429";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -919,6 +985,7 @@
 				GCC_PREFIX_HEADER = "SpeakingCalculator/SpeakingCalculator-Prefix.pch";
 				INFOPLIST_FILE = "SpeakingCalculator/SpeakingCalculator-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				VERSIONING_SYSTEM = "apple-generic";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -930,6 +997,7 @@
 				GCC_PREFIX_HEADER = "SpeakingCalculator/SpeakingCalculator-Prefix.pch";
 				INFOPLIST_FILE = "SpeakingCalculator/SpeakingCalculator-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				VERSIONING_SYSTEM = "apple-generic";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
